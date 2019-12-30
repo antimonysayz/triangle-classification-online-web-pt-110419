@@ -1,5 +1,5 @@
 class Triangle
-  def initialize(length1, lenght2, length3)
+  def initialize(length1, length2, length3)
     @triangle_sides = []
     @triangle_sides << length1
     @triangle_sides << length2
